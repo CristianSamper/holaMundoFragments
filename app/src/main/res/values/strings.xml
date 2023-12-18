@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">holaMundoFragments</string>
+    <string name="Saludo">Hola usuario</string>
+    <string name="Peticion">Dime como te llamas</string>
+    <string name="boton">Aceptar</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
